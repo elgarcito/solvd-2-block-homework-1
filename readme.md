@@ -30,4 +30,3 @@ The tables created were:
 
 To create this database, it was used sql language. The statements to achieve this are in 
 database creation statements.sql file
-
